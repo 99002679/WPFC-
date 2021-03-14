@@ -1,0 +1,15 @@
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\bin\Debug\FirstTaskUpdated.exe.config
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\bin\Debug\FirstTaskUpdated.exe
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\bin\Debug\FirstTaskUpdated.pdb
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.csprojAssemblyReference.cache
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\View\MainWindow.g.cs
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\App.g.cs
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated_MarkupCompile.cache
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated_MarkupCompile.lref
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\View\MainWindow.baml
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.g.resources
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.Properties.Resources.resources
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.csproj.GenerateResource.cache
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.csproj.CoreCompileInputs.cache
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.exe
+C:\Users\Grace Juliet\Desktop\WPF-C# Tasks\FirstTaskUpdated\FirstTaskUpdated\obj\Debug\FirstTaskUpdated.pdb
